@@ -44,7 +44,7 @@ T-metric, a time tracking software which provides time tracking service for free
 
 ![home page](https://user-images.githubusercontent.com/100181657/187349837-d5a7dae0-52b9-4162-84c8-b8613bb47b54.png)
 
-- **Business Companionn**
+- **Business Companion**
 
 ![home1](https://user-images.githubusercontent.com/100181657/187349854-9946cbb3-5e48-4246-b303-8716c93d6bfc.png)
 
