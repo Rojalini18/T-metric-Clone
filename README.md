@@ -12,12 +12,10 @@ T-metric, a time tracking software which provides time tracking service for free
 
 ## Features
 
-- Different category page like job search, work from home, career tips, premium service, etc.
+- Different category page like pricing, support, blog, create work space, create tasks etc.
 - Login / Sign-Up page with authentication.
-- Smooth subscription purchase of service package at your convenience fee
-- Add to Cart and Payment page
-- Employee page
-
+- Smooth subscription purchase at your convenience fee.
+- Create, read, update and delete your tasks according to your plan.
 
 
 ## Tech Stack
@@ -27,7 +25,6 @@ T-metric, a time tracking software which provides time tracking service for free
 ### Libraries Used 
 
 - Chakra UI
-
 
 ## Contributors
 
@@ -47,15 +44,15 @@ T-metric, a time tracking software which provides time tracking service for free
 
 ![home page](https://user-images.githubusercontent.com/100181657/187349837-d5a7dae0-52b9-4162-84c8-b8613bb47b54.png)
 
-- **Home1 Page**
+- **Business Companionn**
 
 ![home1](https://user-images.githubusercontent.com/100181657/187349854-9946cbb3-5e48-4246-b303-8716c93d6bfc.png)
 
-- **Home3 Page**
+- **Profitability**
 
 ![home3](https://user-images.githubusercontent.com/100181657/187349866-6ac0b5e0-ad24-444c-bd75-4e9e92a534c2.png)
 
-- **Home4 Page**
+- **Time-off Calander**
 
 ![home4](https://user-images.githubusercontent.com/100181657/187349887-d4e83c8e-7f8b-460b-8c08-97e45f591fcb.png)
 
@@ -79,13 +76,11 @@ T-metric, a time tracking software which provides time tracking service for free
 
 ![login](https://user-images.githubusercontent.com/100181657/187349915-79f4fcbc-6d7d-424b-967e-488b324235ec.png)
 
-- **create-work-space Page**
+- **Create-Work-Space Page**
 
 ![create-work-space](https://user-images.githubusercontent.com/100181657/187349828-8877ad98-c510-47be-81e2-4fe638154619.png)
 
-- **Create-task Page**
+- **Create-Task Page**
 
 ![main](https://user-images.githubusercontent.com/100181657/187349931-9e1ede2c-cee0-4463-9eb3-bb80191b274f.png)
-
-
 
